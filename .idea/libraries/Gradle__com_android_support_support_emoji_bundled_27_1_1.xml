@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-emoji-bundled-27.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-emoji-bundled-27.1.1.aar/bab23dc639e904e5513fde06c5297a28/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-emoji-bundled-27.1.1.aar/bab23dc639e904e5513fde06c5297a28/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-emoji-bundled/27.1.1/98a51860cd6bf3ae6fa58f0f40e4d5f9cc45f2f8/support-emoji-bundled-27.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

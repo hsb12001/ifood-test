@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/container_row"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:baselineAligned="false"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+        <android.support.text.emoji.widget.EmojiAppCompatTextView
+            android:visibility="gone"
+            android:id="@+id/emoji_sentiment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:padding="4dp"
+            android:id="@+id/tweet_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textIsSelectable="false">
+        </TextView>
+</LinearLayout>

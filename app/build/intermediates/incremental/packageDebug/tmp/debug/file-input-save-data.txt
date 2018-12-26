@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Dec 26 01:57:08 CST 2018
+1.base=/Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=NotoColorEmojiCompat.ttf
+0.set=ASSET
+0.base=/Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/build/intermediates/assets/debug
+1.path=classes.dex

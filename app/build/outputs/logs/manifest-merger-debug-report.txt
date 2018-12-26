@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:17:1-61:12
+MERGED from [com.android.support:design:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b8ddf1dfb496db64db57303556c41230/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-emoji-appcompat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-appcompat-27.1.1.aar/83c10062954aa6d36bcf7f44da18f815/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/38f47c6de6d1c94c0adda3966213d884/AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-3.3.0.aar/76338b7903b43a69bc70aff0104c38d5/AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:support-emoji-bundled:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-bundled-27.1.1.aar/bab23dc639e904e5513fde06c5297a28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.3.aar/411a7cf9fa1326dadbbf99797c4067dd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/610de031268a1e8660af1c45541ff55b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f3f91144e23b583e5ad0a36a85e80b3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/05c1eeda2e494a522d64bc800cde2bb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4b3335c6f5a77e612419a4d3964dadec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/61ecfbfe17eb4d996ec731b480aba25c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4942e5651734ac104f649877730c8153/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/26c32019361e4fc54ecc62f03e25816c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/19c58677d88ad40fb8817a27ae4275b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4c8c59a0f108a0b2bfc601f177c69504/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-emoji:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-27.1.1.aar/edffee29a98fdbcb56b629ecf0c0111e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f03813365660547835448be029f14023/AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:18:1-35:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/826d11de6ac1f39d47875eaf07f19cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/881b55d311c2163f6a23cd3ddd87ddd0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afdbe0b766c85de9142eaf5f5fc2f0cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13de613f381e7bf52e00db18f2685c57/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:4:22-64
+meta-data#fontProviderRequests
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:5:5-93
+	android:value
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:5:52-91
+	android:name
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:5:16-51
+application
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:26:5-59:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:26:5-59:19
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-3.3.0.aar/76338b7903b43a69bc70aff0104c38d5/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-3.3.0.aar/76338b7903b43a69bc70aff0104c38d5/AndroidManifest.xml:25:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.3.aar/411a7cf9fa1326dadbbf99797c4067dd/AndroidManifest.xml:23:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.3.aar/411a7cf9fa1326dadbbf99797c4067dd/AndroidManifest.xml:23:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:27:5-33:19
+	android:supportsRtl
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:7:9-40
+activity#mx.shosvb.ifood.MainActivity
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:configChanges
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:17:13-122
+	android:name
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b8ddf1dfb496db64db57303556c41230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b8ddf1dfb496db64db57303556c41230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji-appcompat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-appcompat-27.1.1.aar/83c10062954aa6d36bcf7f44da18f815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji-appcompat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-appcompat-27.1.1.aar/83c10062954aa6d36bcf7f44da18f815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/38f47c6de6d1c94c0adda3966213d884/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/38f47c6de6d1c94c0adda3966213d884/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-3.3.0.aar/76338b7903b43a69bc70aff0104c38d5/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-3.3.0.aar/76338b7903b43a69bc70aff0104c38d5/AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:support-emoji-bundled:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-bundled-27.1.1.aar/bab23dc639e904e5513fde06c5297a28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji-bundled:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-bundled-27.1.1.aar/bab23dc639e904e5513fde06c5297a28/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.3.aar/411a7cf9fa1326dadbbf99797c4067dd/AndroidManifest.xml:21:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.5.3.aar/411a7cf9fa1326dadbbf99797c4067dd/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/610de031268a1e8660af1c45541ff55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/610de031268a1e8660af1c45541ff55b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f3f91144e23b583e5ad0a36a85e80b3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f3f91144e23b583e5ad0a36a85e80b3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/05c1eeda2e494a522d64bc800cde2bb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/05c1eeda2e494a522d64bc800cde2bb6/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4b3335c6f5a77e612419a4d3964dadec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4b3335c6f5a77e612419a4d3964dadec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/61ecfbfe17eb4d996ec731b480aba25c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/61ecfbfe17eb4d996ec731b480aba25c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4942e5651734ac104f649877730c8153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4942e5651734ac104f649877730c8153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/26c32019361e4fc54ecc62f03e25816c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/26c32019361e4fc54ecc62f03e25816c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/19c58677d88ad40fb8817a27ae4275b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/19c58677d88ad40fb8817a27ae4275b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4c8c59a0f108a0b2bfc601f177c69504/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4c8c59a0f108a0b2bfc601f177c69504/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-27.1.1.aar/edffee29a98fdbcb56b629ecf0c0111e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-emoji-27.1.1.aar/edffee29a98fdbcb56b629ecf0c0111e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f03813365660547835448be029f14023/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f03813365660547835448be029f14023/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:23:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/826d11de6ac1f39d47875eaf07f19cd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/826d11de6ac1f39d47875eaf07f19cd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/881b55d311c2163f6a23cd3ddd87ddd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/881b55d311c2163f6a23cd3ddd87ddd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afdbe0b766c85de9142eaf5f5fc2f0cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afdbe0b766c85de9142eaf5f5fc2f0cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13de613f381e7bf52e00db18f2685c57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/13de613f381e7bf52e00db18f2685c57/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:23:5-80
+IMPLIED from /Users/hsanchez/Google-Drive/ProjectAS/ifood-mobile-test/app/src/main/AndroidManifest.xml:2:1-28:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:24:22-78
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:27:9-30:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:30:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:28:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:31:9-34:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:34:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:32:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:36:9-49:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:41:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:38:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:40:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:39:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:42:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:37:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:50:9-58:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:56:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:55:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:53:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:54:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:58:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:57:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.3] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/leakcanary-android-1.5.3.aar/285de2d109bd039bf0b0c55d8365279a/AndroidManifest.xml:51:13-93
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.3.0.aar/08241ea5e79d590c87c8ecf93b98578b/AndroidManifest.xml:33:13-75
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.3.0.aar/7013188e175b06ba111297f03564553c/AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.3.0] /Users/hsanchez/.gradle/caches/transforms-1/files-1.1/twitter-core-3.3.0.aar/109bb44cc4be7d0d84d343f5b987798c/AndroidManifest.xml:29:13-79

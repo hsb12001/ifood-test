@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ifood</string>
+
+    <string name="rtl_timeline">Timeline</string>
+    <string name="user_empty">No users :(</string>
+    <string name="timeline_empty">No tweets :(</string>
+    <string name="user_name">Username</string>
+    <string name="search">Search</string>
+    <string name="time_line">Tweets</string>
+
+
+    <string name="happy_tweet">Happy Tweet %s</string>
+    <string name="neutral_tweet">Neutral Tweet %s</string>
+    <string name="sad_tweet">Sad Tweet %s</string>
+
+    <string name="sentiment_failure">Upps!!!, I can not analyze the tweet make sure you have an internet connection and try try later</string>
+    <string name="search_user_failure">Upps!!!, I can not perform the search for users make sure you have an internet connection and try later</string>
+</resources>
